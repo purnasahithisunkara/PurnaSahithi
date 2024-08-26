@@ -23,6 +23,3 @@
 - <a href="https://public.tableau.com/app/profile/purna.sahithi.sunkara/vizzes">Data Visualizations</a>
 
 
-[![Linkedin: Purna Sahithi](https://img.shields.io/badge/-NikoSeino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoseino/)](https://www.linkedin.com/in/purna-sahithi-sunkara/)
-[![GitHub Purna Sahithi](https://img.shields.io/github/followers/NikoSeino?label=follow&style=social)](https://github.com/NikoSeino)
-
